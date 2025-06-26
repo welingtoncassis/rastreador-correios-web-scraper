@@ -1,4 +1,33 @@
-node_modules
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Google Cloud credentials
+google-credentials.json
+*-credentials.json
+*.key.json
+
+# Screenshots and images
 *.png
 *.jpg
 *.jpeg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.production
+
+rastreamento-correios.json
