@@ -2,7 +2,7 @@
 
 Um scraper web automatizado para rastreamento de encomendas dos Correios com detecção automática de CAPTCHA usando Google Cloud Vision AI.
 
-> ⚠️ **ATENÇÃO**: Este é um projeto para fins comerciais e educacionais. O desenvolvedor não se responsabiliza pelo uso inadequado. Leia o [Disclaimer](#️-disclaimer-e-responsabilidades) antes de usar.
+> ⚠️ **ATENÇÃO**: Este é um projeto para fins educacionais. O desenvolvedor não se responsabiliza pelo uso inadequado. Leia o [Disclaimer](#️-disclaimer-e-responsabilidades) antes de usar.
 
 ## Funcionalidades
 
